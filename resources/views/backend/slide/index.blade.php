@@ -9,7 +9,7 @@
             <div class="col-md-12">
                 <div class="card">
                     <div class="card-header">
-                        {{-- <a href="/slide/create">Add Slide</a> --}}
+                        <a href="/slide/create" class=" btn btn-sm btn-primary">Add Slide</a>
                         <h2>All Slides</h2>
                     </div>
                     <div class="card-body">
